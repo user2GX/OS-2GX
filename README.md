@@ -25,3 +25,16 @@ When running the make file, it will say something
 about maximum byte size. Ignore that! Only post an
 issue if there's something actually preventing you
 from making the source, or running the image.
+
+# Compatibility
+
+This is a current list of working virtualization
+softwares that work with OS/2GX. This will be
+updated when more and more softwares are found
+to be working with this. [^1]
+
+[^1]: VMWare returns a blinking underscore.
+
+- [x] QEMU i386
+- [x] VirtualBox
+- [ ] VMWare

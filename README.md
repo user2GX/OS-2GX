@@ -2,8 +2,9 @@
 Working on my own OS. I'm making it in pure assembly.
 Kernel should work, and for Linux users..
 
-CD into the main trunk/folder of the repository either
-when cloning or downloading the zip, then type in:
+If you're in a command line interface, move into 
+the folder of the repository either when cloning
+or downloading the zip, then type in:
 
 ```
 make
@@ -19,3 +20,8 @@ returned by qemu. To run it in qemu, use this command:
 ```
 qemu-system-i386 -fda build/os2gx.img
 ```
+
+When running the make file, it will say something
+about maximum byte size. Ignore that! Only post an
+issue if there's something actually preventing you
+from making the source, or running the image.

@@ -2,8 +2,9 @@
 Working on my own OS. I'm making it in pure assembly.
 Kernel should work, and for Linux users..
 
-If you're in a command line interface, move into 
-the folder of the repository either when cloning
+# Linux
+
+Move into the folder (through the terminal) of the repository either when cloning
 or downloading the zip, then type in:
 
 ```
